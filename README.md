@@ -24,15 +24,12 @@ This is a simple Vue.js-based chatbot application that demonstrates a dynamic, i
 1. Clone the repository:
 
 2. Navigate to the project directory:
+    cd vue-chatbot
 
-     cd vue-chatbot
-
-4. Install the dependencies:
-
+3. Install the dependencies:
     npm install
 
 4. Start dev server:
-
     npm run dev
 
 
